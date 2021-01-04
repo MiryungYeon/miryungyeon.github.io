@@ -1,12 +1,13 @@
-# main links
-main:
-  # - title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Java"
+main: 
+  - 
+    title: Java
     url: /java/
-  - title: "JavaScript"
-     url: /javascript/
-  - title: "C++"
-     url: /c/
-  - title: "Etc."
-     url: /etc/
+  - 
+    title: JavaScript
+    url: /javascript/
+  - 
+    title: C++
+    url: /c/
+  - 
+    title: Etc.
+    url: /etc/

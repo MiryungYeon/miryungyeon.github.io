@@ -1,6 +1,7 @@
 ---
-title: "C++"
-layout: c
-permalink: /c/
+title: C++
+permalink: "/c/"
 author_profile: true
+layout: none
 ---
+
