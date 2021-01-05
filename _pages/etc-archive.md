@@ -1,6 +1,6 @@
 ---
-title: Etc.
-permalink: etc
-layout: none
+title: "Etc."
+layout: etc
+permalink: /etc/
+author_profile: true
 ---
-
