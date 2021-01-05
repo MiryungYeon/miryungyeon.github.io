@@ -11,17 +11,23 @@ layout: posts
 
 이에 따른 처리가 필요할 때가 있습니다.
 
-그럴 경우,
+그럴 경우, 
 
-**console.log($("#div_area").is(:visible));**
+***.is(:visible)***
+
+```
+ console.log($("#div_area").is(:visible)); 
+```
 
 을 통해 쉽게 알 수 있습니다. 결과 값은 True 또는 False가 나오게 됩니다.
 
-**if($("#div_area").is(:visible)) { // div_area가 true일 때
-		console.log("True");
+```
+if ($("#div_area").is(:visible)) { // div_area가 true일 때
+	console.log("True");
 } else { // div_area가 false일 때
-		console.log("False");
-}**
+	console.log("False");
+}
+```
 
 이상입니다.
 
