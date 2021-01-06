@@ -1,6 +1,6 @@
 ---
 title: "[jQuery] 객체의 show(), hide() 여부 판단하기"
-layout: posts
+layout: single
 comments: true
 ---
 
@@ -33,3 +33,9 @@ if ($("#div_area").is(:visible)) { // div_area가 true일 때
 이상입니다.
 
 감사합니다!
+
+{% if page.comments %}
+<div id="post-disqus" class="container">
+{% include disqus.html %}
+</div>
+{% endif %}
