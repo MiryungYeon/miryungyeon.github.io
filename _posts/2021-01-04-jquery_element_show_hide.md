@@ -2,6 +2,8 @@
 title: "[jQuery] 객체의 show(), hide() 여부 판단하기"
 layout: single
 comments: true
+categories:
+- javascript
 ---
 
 안녕하세요.
