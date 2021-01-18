@@ -42,7 +42,7 @@ var arr_list = [["apple","banana"],["tangerine","pear"],["mango"]];
 	<input type="text" id="token_field2" class="tokenfield">
 </div>
 <div>
-<input type="text" id="token_field3" class="tokenfield">
+	<input type="text" id="token_field3" class="tokenfield">
 </div>
 															
 for (var i = 0; i < arr_list.length; i++) {
