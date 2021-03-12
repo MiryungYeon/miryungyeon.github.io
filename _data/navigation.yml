@@ -6,8 +6,8 @@ main:
     title: JavaScript
     url: /javascript/
   - 
-    title: C++
-    url: /c/
+    title: Python
+    url: /python/
   - 
     title: Etc.
     url: /etc/
